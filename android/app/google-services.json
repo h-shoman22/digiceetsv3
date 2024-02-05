@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816320288314",
+    "firebase_url": "https://digiceets-database-default-rtdb.firebaseio.com",
+    "project_id": "digiceets-database",
+    "storage_bucket": "digiceets-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816320288314:android:a9b5c4c9ffca992df68703",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816320288314-p29h3s6mu3vicp1ejhhmfjen8m6te9mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.main",
+            "certificate_hash": "c8af9f70ce0a2da080c94dbb75fad83c25c6a922"
+          }
+        },
+        {
+          "client_id": "816320288314-b2f4q6ugamhgg78h1nmefnjacc6kdocc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXgMQEx2nkiYj6C5bHPguqrUpl2OPYHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816320288314-09cmlcg5s7qobh63ide3rhf43i00kf87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816320288314-05l1eqg7148l308c820ee4fok092mf7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
